@@ -1,0 +1,8 @@
+*.pyc
+*.log
+*.gz
+*.mmdb
+bin
+include
+lib
+.Python
